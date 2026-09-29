@@ -5,7 +5,6 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fcca5f70-463d-48e3-844d-7da2e85a1688" />
 
 
-<img width="480" height="359" alt="image" src="https://github.com/user-attachments/assets/d93b9a5b-577d-420d-9f83-838c269fcba8" />
 <img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/2c7cf385-cf9f-463b-bc8e-4e0a7b32d617" />
 
 ## What's new in v0.0.42 (July 31, 2026)
