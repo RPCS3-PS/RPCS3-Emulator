@@ -1,0 +1,3 @@
+/* rev-d4e82b-20260929 */
+CHANGELOG.txt
+v0.0.42 Jul 31 2026: LLVM, Vulkan, PKG checks
